@@ -1,0 +1,20 @@
+# 원본·중간 결과는 내 컴퓨터에만 보관 (공개 저장소에 올리지 않음)
+raw/
+*.mp4
+*.mov
+*.MOV
+*.npz
+frames/
+
+# 비교용 형식 파일은 크기만 README에 적고 올리지 않음
+*.ply
+*.spz
+*.splat
+*.zip
+
+.DS_Store
+
+# 로컬 실행 환경 (맥에서 복원)
+.venv/
+vendor/
+__pycache__/
