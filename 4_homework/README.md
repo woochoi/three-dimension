@@ -1,7 +1,8 @@
 # 공개 가능한 공간의 3D 뷰어 — 책상 위 아이스 커피 컵
 
-**보기** https://woochoi.github.io/three-dimension/4_homework/
-**장면 파일** https://woochoi.github.io/three-dimension/4_homework/scene.sog
+- **보기** https://woochoi.github.io/three-dimension/4_homework/
+- **장면 파일** https://woochoi.github.io/three-dimension/4_homework/scene.sog
+- **저장소** https://github.com/woochoi/three-dimension/tree/main/4_homework
 
 ![뷰어 화면](shots/viewer.png)
 
